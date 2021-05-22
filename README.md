@@ -1,7 +1,7 @@
 # EFI_OC_Gigabyte_X570_UD
 EFI OpenCore for Gigabyte X570 UD
 
-EFI_OpenCore = Essential for first install macOS
+EFI_OpenCore = Essential for first install  
 EFI_OpenCore_Post_Install = for Post install
 
 Test on...
